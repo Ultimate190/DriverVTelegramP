@@ -1,8 +1,8 @@
 {
-  "name": "VPS",
+  "name": "Drive bot ",
   "description": "Use heroku as VPS",
   "keywords": [
-    "VPS"
+    "Trlegram"
   ],
   "repository": "https://github.com/4u7157/vps",
   "stack": "container",
