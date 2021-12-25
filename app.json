@@ -1,10 +1,10 @@
 {
   "name": "Drive bot ",
-  "description": "Use heroku as VPS",
+  "description": "Use heroku as telegram bot",
   "keywords": [
     "Trlegram"
   ],
-  "repository": "https://github.com/4u7157/vps",
+  "repository": "https://github.com/Ultimate190/vps",
   "stack": "container",
   "env": {
 }
